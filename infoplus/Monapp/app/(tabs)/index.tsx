@@ -15,7 +15,7 @@ style={styles.logo}
 InfoPlus
 </Text>
 <Text style={styles.subtitle}>
-Centre de Formation — Bizerte
+Centre de Formation — Bizerte 2026
 </Text>
 </View>
 <View style={styles.card}>
